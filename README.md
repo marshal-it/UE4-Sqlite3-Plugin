@@ -17,6 +17,7 @@ Windows x64 **WORKS**, Android **WORKS**
 # Installation
 
 Copy this plugin (like Download as ZIP) into the folder **Plugins/CISQLite3** on your project and a start of the project should compile the plugin automatically, if the project is C++. If you don't have a C++ project, then you can just make one for the sole purpose of compiling this plugin. Alternative you can install it as Engine Plugin in the Engine Plugins directory (like **Epic Games/4.12/Engine/Plugins/Runtime/CISQLite3**).
+If you are on windows you may need to download a c compiler as if not it may not build you can use for example http://www.mingw.org/
 
 # Usage
 
